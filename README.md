@@ -22,7 +22,7 @@ The labs in this course were centred around practical applications of programmin
 Through these labs, we were able to bridge the gap between theoretical knowledge and practical application, gaining invaluable insights into the world of embedded systems and electronics.
 
 ## Table of Content Labs
-<p align="center">
+
   | Link | Description |
   | ---- | ----------- |
   | [Lab 1](https://github.com/DavidGuamanDavila/ENGI1020_ShowCase/tree/main/Labs/lab1) | Arduino-Based Temperature Sensing and Display Lab |
@@ -31,5 +31,4 @@ Through these labs, we were able to bridge the gap between theoretical knowledge
   | [Lab 4](https://github.com/DavidGuamanDavila/ENGI1020_ShowCase/tree/main/Labs/lab4) | Servo Motor Control via Rotary Dial Input Analysis |
   | [Lab 5](https://github.com/DavidGuamanDavila/ENGI1020_ShowCase/tree/main/Labs/lab5) | Reaction Speed Challenge: Button Versus Touch Sensor Game |
   | [Lab 6](https://github.com/DavidGuamanDavila/ENGI1020_ShowCase/tree/main/Labs/lab6) | Temperature Data Acquisition and Analysis with Emergency Stop Feature|
-</p>
 
