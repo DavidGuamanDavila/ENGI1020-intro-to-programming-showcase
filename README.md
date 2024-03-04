@@ -1,4 +1,4 @@
-# ENGI1020_ShowCase
+# ENGI1020-intro-to-programming-showcase 
 This repository contains a collection of my assignments and lab solutions developed for the ENGI 1020 class. 
 
 ## Assignments
